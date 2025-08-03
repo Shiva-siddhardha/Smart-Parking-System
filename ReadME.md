@@ -179,12 +179,3 @@ SmartParkingSystem/
 
 This project is developed for educational and demonstration purposes.
 
----
-
-<div align="center">
-
-**Built with ❤️ for learning advanced Java concepts and system design**
-
-*Perfect for technical interviews and portfolio demonstrations*
-
-</div>
